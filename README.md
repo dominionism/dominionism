@@ -1,7 +1,7 @@
 # <div align="center">Full Stack Engineer | ML | Cybersecurity</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dominionism/dominionism/main/Banner.jpeg" alt="Koda | Speak it into existence" width="100%">
+  <img src="https://raw.githubusercontent.com/dominionism/dominionism/main/Banner.png" alt="Koda | Speak it into existence" width="100%">
 </div>
 
 ---
