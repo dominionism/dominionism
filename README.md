@@ -15,7 +15,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="About Me"/>
+<img src="https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="About Me"/>
 
 I am a software engineer focused on high-performance infrastructure, intelligent data systems, and defensive security. I aim to solve complex problems and pioneer new intelligent systems of the highest caliber.
 
@@ -30,7 +30,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-<img src="https://img.shields.io/badge/EXPERIENCE-FFFFFF?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Experience"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Experience"/>
 
 ### Koda — Co-Founder | Jan 2025 – Present
 
@@ -64,7 +64,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-<img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Projects"/>
+<img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Projects"/>
 
 ### Openville
 
@@ -84,7 +84,7 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-<img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Tech Stack"/>
+<img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
@@ -98,7 +98,7 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-<img src="https://img.shields.io/badge/GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="GitHub Stats"/>
+<img src="https://img.shields.io/badge/GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="GitHub Stats"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dominionism&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=565F69" alt="GitHub Streak" />
@@ -107,11 +107,3 @@ AI Skill Discovery & Reranking Agent
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominionism&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=161B22" alt="Activity Graph" width="95%"/>
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
