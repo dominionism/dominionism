@@ -15,7 +15,9 @@
 
 ---
 
-## About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="About Me"/>
+</div>
 
 I am a software engineer focused on high-performance infrastructure, intelligent data systems, and defensive security. I aim to solve complex problems and pioneer new intelligent systems of the highest caliber.
 
@@ -30,7 +32,9 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-## Experience
+<div align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCE-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Experience"/>
+</div>
 
 ### Koda — Co-Founder | Jan 2025 – Present
 
@@ -64,7 +68,9 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-## Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Projects"/>
+</div>
 
 ### Openville
 
@@ -84,7 +90,9 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-## Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Tech Stack"/>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
@@ -98,7 +106,9 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-## GitHub Stats
+<div align="center">
+  <img src="https://img.shields.io/badge/GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="GitHub Stats"/>
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dominionism&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=565F69" alt="GitHub Streak" />
