@@ -62,7 +62,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 <img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Projects"/>
 
-> **Openville**
+> **[Openville](https://github.com/jeremykamber/openville)**
 >
 > *Autonomous Multi-Agent Tradespeople Marketplace & Negotiation Engine*
 >
@@ -70,7 +70,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 > - Implemented weighted multi-factor ranking with real-time preference adjustments and cost/quality outlier detection
 > - Designed a multi-stage pipeline handling reasoning, real-time agent negotiation, and transaction fulfillment
 
-> **SkillRank**
+> **[SkillRank](https://github.com/dominionism/SkillRank)**
 >
 > *AI Skill Discovery & Reranking Agent*
 >
