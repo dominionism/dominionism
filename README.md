@@ -1,21 +1,33 @@
-# <div align="center">Full Stack Engineer | ML | Cybersecurity</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/dominionism/dominionism/main/Banner.png" alt="Koda | Speak it into existence" width="100%">
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Engineer;Machine+Learning+%7C+Cybersecurity;Building+Intelligent+Systems" alt="Typing SVG" /></a>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/luisgabrielcainglet"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>
+</p>
+
 ---
 
-## About Me
+<img src="https://img.shields.io/badge/About%20Me-7AA2F7?style=for-the-badge&logoColor=white" alt="About Me"/>
 
 I am a software engineer focused on high-performance infrastructure, intelligent data systems, and defensive security. I aim to solve complex problems and pioneer new intelligent systems of the highest caliber.
 
-- **Focus**: Full Stack Engineering, Machine Learning, Cybersecurity, Automation.
-- **Academic**: B.S. Informatics @ **University of Washington**.
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack-1A1B27?style=flat-square&logo=stackblitz&logoColor=7AA2F7" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1A1B27?style=flat-square&logo=pytorch&logoColor=7AA2F7" alt="ML"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-1A1B27?style=flat-square&logo=hackthebox&logoColor=7AA2F7" alt="Security"/>
+  <img src="https://img.shields.io/badge/Automation-1A1B27?style=flat-square&logo=githubactions&logoColor=7AA2F7" alt="Automation"/>
+</p>
+
+**B.S. Informatics** @ **University of Washington**
 
 ---
 
-## Experience
+<img src="https://img.shields.io/badge/Experience-7AA2F7?style=for-the-badge&logoColor=white" alt="Experience"/>
 
 ### Koda — Co-Founder | Jan 2025 – Present
 
@@ -49,7 +61,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-## Projects
+<img src="https://img.shields.io/badge/Projects-7AA2F7?style=for-the-badge&logoColor=white" alt="Projects"/>
 
 ### Openville
 
@@ -69,22 +81,22 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-## Tech Stack
+<img src="https://img.shields.io/badge/Tech%20Stack-7AA2F7?style=for-the-badge&logoColor=white" alt="Tech Stack"/>
 
 <div align="center">
 
-| Domain           | Technologies                                                                                     |
-| :--------------- | :----------------------------------------------------------------------------------------------- |
-| **Backend**      | <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin" alt="Backend">   |
-| **Frontend**     | <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css" alt="Frontend"> |
-| **Data Systems** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" alt="Databases">       |
-| **Tooling**      | <img src="https://skillicons.dev/icons?i=docker,github,git,bash,vscode" alt="Tools">             |
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin" alt="Backend"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css" alt="Frontend"> |
+| **Data Systems** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" alt="Databases"> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=docker,github,git,bash,vscode" alt="Tools"> |
 
 </div>
 
 ---
 
-## GitHub Stats
+<img src="https://img.shields.io/badge/GitHub%20Stats-7AA2F7?style=for-the-badge&logoColor=white" alt="GitHub Stats"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dominionism&theme=tokyonight" alt="GitHub Streak" />
