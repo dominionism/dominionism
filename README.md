@@ -21,7 +21,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 <p>
   <img src="https://img.shields.io/badge/Full%20Stack-161B22?style=flat-square&logo=stackblitz&logoColor=C9D1D9" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=flat-square&logo=pytorch&logoColor=C9D1D9" alt="ML"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=flat-square&logo=pytorch&logoColor=C9D1D9" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Cybersecurity-161B22?style=flat-square&logo=hackthebox&logoColor=C9D1D9" alt="Security"/>
   <img src="https://img.shields.io/badge/Automation-161B22?style=flat-square&logo=githubactions&logoColor=C9D1D9" alt="Automation"/>
 </p>
@@ -87,13 +87,13 @@ AI Skill Discovery & Reranking Agent
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?s=60&i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?s=60&i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&theme=dark&perline=4" alt="Data Systems"/>
+  <img src="https://skillicons.dev/icons?s=60&i=postgres,mongodb,redis,firebase&theme=dark&perline=4" alt="Data Systems"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,github,git,bash,vscode&theme=dark&perline=5" alt="Tooling"/>
+  <img src="https://skillicons.dev/icons?s=60&i=docker,github,git,bash,vscode&theme=dark&perline=5" alt="Tooling"/>
 </div>
 
 ---
