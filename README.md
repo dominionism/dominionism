@@ -1,31 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:161B22&height=180&section=header&text=&fontSize=0" width="100%"/>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/dominionism/dominionism/main/Banner.png" alt="Koda | Speak it into existence" width="100%">
 </div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Engineer+%7C+ML+%7C+Cybersecurity;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" /></a>
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/luisgabrielcainglet"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=dominionism&style=for-the-badge&color=161B22&label=VIEWS&labelColor=161B22" alt="Profile Views"/>
 </p>
 
-<br>
-
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161B22&text=ABOUT%20ME&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="300" height="50"/>
-</div>
-
-<br>
+## About Me
 
 I am a software engineer focused on high-performance infrastructure, intelligent data systems, and defensive security. I aim to solve complex problems and pioneer new intelligent systems of the highest caliber.
 
@@ -40,11 +30,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161B22&text=EXPERIENCE&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="300" height="50"/>
-</div>
-
-<br>
+## Experience
 
 ### Koda — Co-Founder | Jan 2025 – Present
 
@@ -78,11 +64,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161B22&text=PROJECTS&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="300" height="50"/>
-</div>
-
-<br>
+## Projects
 
 ### Openville
 
@@ -102,11 +84,7 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161B22&text=TECH%20STACK&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="300" height="50"/>
-</div>
-
-<br>
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
@@ -120,11 +98,7 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=161B22&text=GITHUB%20STATS&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="300" height="50"/>
-</div>
-
-<br>
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dominionism&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=565F69" alt="GitHub Streak" />
@@ -141,5 +115,3 @@ AI Skill Discovery & Reranking Agent
     <img alt="Snake animation" src="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:000000&height=120&section=footer" width="100%"/>
