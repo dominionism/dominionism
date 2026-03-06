@@ -30,7 +30,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 > **Koda** · Co-Founder &nbsp; <img src="https://img.shields.io/badge/Dec%202025%20–%20Present-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
 >
-> *Building an intelligent macOS personal agent translating natural language to system-level execution.*
+> *Building an intelligent macOS personal agent translating natural language to system-level execution tailored for developer workflows.*
 >
 > - Built a macOS menu bar utility using on-device STT for real-time shell, git, and app management
 > - Implemented hybrid AI orchestration using local pattern-matching for zero-latency and cloud-based LLM function calling for complex intent
@@ -97,9 +97,5 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 <img src="https://img.shields.io/badge/GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="GitHub Stats"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dominionism&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=565F69" alt="GitHub Streak" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominionism&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=161B22&days=31&custom_title=This_Month" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominionism&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=161B22&days=31&custom_title=%20" alt="Activity Graph" width="100%"/>
 </p>
