@@ -1,33 +1,36 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:7AA2F7&height=200&section=header&text=&fontSize=0" width="100%"/>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/dominionism/dominionism/main/Banner.png" alt="Koda | Speak it into existence" width="100%">
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Engineer;Machine+Learning+%7C+Cybersecurity;Building+Intelligent+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Full+Stack+Engineer+%7C+ML+%7C+Cybersecurity;Building+Intelligent+Systems" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/luisgabrielcainglet"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/luisgabrielcainglet"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=dominionism&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views"/>
 </p>
 
 ---
 
-<img src="https://img.shields.io/badge/About%20Me-7AA2F7?style=for-the-badge&logoColor=white" alt="About Me"/>
+<img src="https://img.shields.io/badge/ABOUT%20ME-0D1117?style=for-the-badge&logo=aboutdotme&logoColor=7AA2F7" alt="About Me"/>
 
 I am a software engineer focused on high-performance infrastructure, intelligent data systems, and defensive security. I aim to solve complex problems and pioneer new intelligent systems of the highest caliber.
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack-1A1B27?style=flat-square&logo=stackblitz&logoColor=7AA2F7" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-1A1B27?style=flat-square&logo=pytorch&logoColor=7AA2F7" alt="ML"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-1A1B27?style=flat-square&logo=hackthebox&logoColor=7AA2F7" alt="Security"/>
-  <img src="https://img.shields.io/badge/Automation-1A1B27?style=flat-square&logo=githubactions&logoColor=7AA2F7" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-0D1117?style=flat-square&logo=stackblitz&logoColor=7AA2F7" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&logo=pytorch&logoColor=7AA2F7" alt="ML"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&logo=hackthebox&logoColor=7AA2F7" alt="Security"/>
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=flat-square&logo=githubactions&logoColor=7AA2F7" alt="Automation"/>
 </p>
 
 **B.S. Informatics** @ **University of Washington**
 
 ---
 
-<img src="https://img.shields.io/badge/Experience-7AA2F7?style=for-the-badge&logoColor=white" alt="Experience"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-0D1117?style=for-the-badge&logo=briefcase&logoColor=7AA2F7" alt="Experience"/>
 
 ### Koda — Co-Founder | Jan 2025 – Present
 
@@ -61,7 +64,7 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 ---
 
-<img src="https://img.shields.io/badge/Projects-7AA2F7?style=for-the-badge&logoColor=white" alt="Projects"/>
+<img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Projects"/>
 
 ### Openville
 
@@ -81,23 +84,31 @@ AI Skill Discovery & Reranking Agent
 
 ---
 
-<img src="https://img.shields.io/badge/Tech%20Stack-7AA2F7?style=for-the-badge&logoColor=white" alt="Tech Stack"/>
+<img src="https://img.shields.io/badge/TECH%20STACK-0D1117?style=for-the-badge&logo=stackshare&logoColor=7AA2F7" alt="Tech Stack"/>
 
 <div align="center">
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin" alt="Backend"> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css" alt="Frontend"> |
-| **Data Systems** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" alt="Databases"> |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=docker,github,git,bash,vscode" alt="Tools"> |
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin&theme=dark" alt="Backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css&theme=dark" alt="Frontend"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&theme=dark" alt="Data Systems"/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,github,git,bash,vscode&theme=dark" alt="Tooling"/>
 </div>
 
 ---
 
-<img src="https://img.shields.io/badge/GitHub%20Stats-7AA2F7?style=for-the-badge&logoColor=white" alt="GitHub Stats"/>
+<img src="https://img.shields.io/badge/GITHUB%20STATS-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub Stats"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dominionism&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=dominionism&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominionism&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true&area_color=7AA2F7" alt="Activity Graph" width="95%"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
