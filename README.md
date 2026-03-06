@@ -96,14 +96,19 @@ I am a software engineer focused on high-performance infrastructure, intelligent
   <img src="https://skillicons.dev/icons?s=72&i=docker,github,git,bash,vscode&theme=dark&perline=6" alt="Tooling"/>
 </div>
 
----
-
 <img src="https://img.shields.io/badge/GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="GitHub Stats"/>
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dominionism&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%" align="center">
   <img src="https://streak-stats.demolab.com/?user=dominionism&hide_border=true&background=0D1117&ring=FFFFFF&fire=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=565F69" alt="GitHub Streak" width="100%"/>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominionism&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=161B22" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominionism&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=161B22&days=31&custom_title=This_Month" alt="Activity Graph" width="100%"/>
 </p>
