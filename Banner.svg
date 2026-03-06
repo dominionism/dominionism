@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" fill="none">
+  <g transform="translate(450, 100)">
+    <!-- Hourglass/X icon -->
+    <g transform="translate(-80, -35)" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <line x1="0" y1="0" x2="22" y2="35"/>
+      <line x1="44" y1="0" x2="22" y2="35"/>
+      <line x1="22" y1="35" x2="0" y2="70"/>
+      <line x1="22" y1="35" x2="44" y2="70"/>
+      <line x1="0" y1="0" x2="44" y2="0"/>
+      <line x1="0" y1="70" x2="44" y2="70"/>
+    </g>
+    <!-- "Koda" text -->
+    <text x="30" y="5" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="300" fill="#FFFFFF" text-anchor="center" dominant-baseline="middle" letter-spacing="2">Koda</text>
+    <!-- "Speak it into existence" subtitle -->
+    <text x="0" y="50" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="300" fill="#8B949E" text-anchor="middle" dominant-baseline="middle" letter-spacing="3">Speak it into existence</text>
+  </g>
+</svg>
