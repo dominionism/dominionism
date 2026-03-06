@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Engineer+%7C+ML+%7C+Cybersecurity;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Engineer+%7C+Machine+Learning+%7C+Cybersecurity;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -87,13 +87,13 @@ AI Skill Discovery & Reranking Agent
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?s=60&i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?s=72&i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?s=60&i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?s=72&i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?s=60&i=postgres,mongodb,redis,firebase&theme=dark&perline=4" alt="Data Systems"/>
+  <img src="https://skillicons.dev/icons?s=72&i=postgres,mongodb,redis,firebase&theme=dark&perline=4" alt="Data Systems"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?s=60&i=docker,github,git,bash,vscode&theme=dark&perline=5" alt="Tooling"/>
+  <img src="https://skillicons.dev/icons?s=72&i=docker,github,git,bash,vscode&theme=dark&perline=5" alt="Tooling"/>
 </div>
 
 ---
