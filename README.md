@@ -28,35 +28,35 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 
 <img src="https://img.shields.io/badge/EXPERIENCE-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Experience"/>
 
-> **Koda** · Co-Founder &nbsp; <img src="https://img.shields.io/badge/Jan%202025%20–%20Present-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
+> **Koda** · Co-Founder &nbsp; <img src="https://img.shields.io/badge/Dec%202025%20–%20Present-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
 >
 > *Building an intelligent macOS personal agent translating natural language to system-level execution.*
 >
-> ▸ Built a macOS menu bar utility using on-device STT for real-time shell, git, and app management
-> ▸ Implemented hybrid AI orchestration using local pattern-matching for zero-latency and cloud-based LLM function calling for complex intent
-> ▸ Integrated pre-execution command guards and macOS Keychain for encrypted credential storage
+> - Built a macOS menu bar utility using on-device STT for real-time shell, git, and app management
+> - Implemented hybrid AI orchestration using local pattern-matching for zero-latency and cloud-based LLM function calling for complex intent
+> - Integrated pre-execution command guards and macOS Keychain for encrypted credential storage
 
 > **Standard** · Lead Software Engineer &nbsp; <img src="https://img.shields.io/badge/June%202025%20–%20Dec%202025-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
 >
 > *Prototyping and scaling a real-time real estate data intelligence platform.*
 >
-> ▸ Led full-stack development of a platform processing **40,000+ spatial data records**, featured at **NAR NXT 2025**
-> ▸ Built production ETL pipelines in Python (Scrapy) with schema versioning and incremental validation
-> ▸ Optimized query latency by **80%** (5s → 1s) via MongoDB aggregation and multi-tier Redis caching
+> - Led full-stack development of a platform processing **40,000+ spatial data records**, featured at **NAR NXT 2025**
+> - Built production ETL pipelines in Python (Scrapy) with schema versioning and incremental validation
+> - Optimized query latency by **80%** (5s → 1s) via MongoDB aggregation and multi-tier Redis caching
 
 > **ThinkCyber UW** · Founding Technical Officer &nbsp; <img src="https://img.shields.io/badge/April%202025%20–%20Present-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
 >
 > *Infrastructure development and technical curriculum for cybersecurity outreach.*
 >
-> ▸ Engineered dual-layer caching (Redis/Local), achieving **23x faster API response times** (12ms average)
-> ▸ Built Node.js Discord CI/CD integration for real-time regional cybersecurity job tracking
+> - Engineered dual-layer caching (Redis/Local), achieving **23x faster API response times** (12ms average)
+> - Built Node.js Discord CI/CD integration for real-time regional cybersecurity job tracking
 
 > **UW College of Built Environments** &nbsp; <img src="https://img.shields.io/badge/Jan%202025%20–%20May%202025-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
 >
 > *Full-stack modernization to replace an obsolete legacy faculty system.*
 >
-> ▸ Designed multi-model MongoDB schema with transaction-safe cascading deletes
-> ▸ Engineered 21 REST endpoints with JWT-based RBAC and Bcrypt to secure sensitive data
+> - Designed multi-model MongoDB schema with transaction-safe cascading deletes
+> - Engineered 21 REST endpoints with JWT-based RBAC and Bcrypt to secure sensitive data
 
 ---
 
@@ -66,17 +66,17 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 >
 > *Autonomous Multi-Agent Tradespeople Marketplace & Negotiation Engine*
 >
-> ▸ Built a semantic RAG engine using vector embeddings and cosine similarity for high-accuracy tradespeople discovery
-> ▸ Implemented weighted multi-factor ranking with real-time preference adjustments and cost/quality outlier detection
-> ▸ Designed a multi-stage pipeline handling reasoning, real-time agent negotiation, and transaction fulfillment
+> - Built a semantic RAG engine using vector embeddings and cosine similarity for high-accuracy tradespeople discovery
+> - Implemented weighted multi-factor ranking with real-time preference adjustments and cost/quality outlier detection
+> - Designed a multi-stage pipeline handling reasoning, real-time agent negotiation, and transaction fulfillment
 
 > **SkillRank**
 >
 > *AI Skill Discovery & Reranking Agent*
 >
-> ▸ Implemented semantic tool discovery using dense embeddings and **Pinecone**
-> ▸ Optimized search diversity by 25% using Maximal Marginal Relevance (MMR) reranking
-> ▸ Built LLM-powered agent generating human-readable justifications for multi-prompt high-K recommendations
+> - Implemented semantic tool discovery using dense embeddings and **Pinecone**
+> - Optimized search diversity by 25% using Maximal Marginal Relevance (MMR) reranking
+> - Built LLM-powered agent generating human-readable justifications for multi-prompt high-K recommendations
 
 ---
 
