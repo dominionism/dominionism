@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dominionism/dominionism/main/Banner.svg" alt="Koda | Speak it into existence" width="100%">
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Full+Stack+Engineer;Machine+Learning;Artificial+Intelligence;Cybersecurity;Automation;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" width="100%" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Building+Koda;Full+Stack+Engineer;Machine+Learning;Artificial+Intelligence;Cybersecurity;Automation;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" width="100%" /></a>
 </div>
 
 <br>
