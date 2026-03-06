@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Full+Stack+Engineer;Machine+Learning;Cybersecurity;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" width="100%" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Full+Stack+Engineer;Machine+Learning;Artificial+Intelligence;Cybersecurity;Automation;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" width="100%" /></a>
 </div>
 
 <br>
@@ -87,13 +87,13 @@ I am a software engineer focused on high-performance infrastructure, intelligent
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?s=72&i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend" width="100%"/>
+  <img src="https://skillicons.dev/icons?s=72&i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?s=72&i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend" width="100%"/>
+  <img src="https://skillicons.dev/icons?s=72&i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?s=72&i=postgres,mongodb,redis,firebase&theme=dark&perline=4" alt="Data Systems" width="100%"/>
+  <img src="https://skillicons.dev/icons?s=72&i=postgres,mongodb,redis,firebase&theme=dark&perline=6" alt="Data Systems"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?s=72&i=docker,github,git,bash,vscode&theme=dark&perline=5" alt="Tooling" width="100%"/>
+  <img src="https://skillicons.dev/icons?s=72&i=docker,github,git,bash,vscode&theme=dark&perline=6" alt="Tooling"/>
 </div>
 
 ---
