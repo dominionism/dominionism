@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="About Me"/>
 
-I am a software engineer focused on high-performance infrastructure, intelligent data systems, and defensive security. I aim to solve complex problems and pioneer new intelligent systems of the highest caliber.
+I am a founder and software engineer focused on high-performance infrastructure, intelligent data systems, and defensive security. I aim to solve complex problems and pioneer new intelligent systems of the highest caliber.
 
 <p>
   <img src="https://img.shields.io/badge/Full%20Stack-161B22?style=flat-square&logo=stackblitz&logoColor=C9D1D9" alt="Full Stack"/>
