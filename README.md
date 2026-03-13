@@ -62,7 +62,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 
 <img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Projects"/>
 
-> **[Openville](https://github.com/jeremykamber/openville)**
+> **[OpenVille](https://github.com/jeremykamber/openville)**
 >
 > *Autonomous Multi-Agent Tradespeople Marketplace & Negotiation Engine*
 >
