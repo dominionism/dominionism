@@ -83,5 +83,3 @@ I am a founder and software engineer focused on high-performance infrastructure,
   <br><br>
   <img src="https://skillicons.dev/icons?s=72&i=docker,github,git,bash,vscode&theme=dark&perline=6" alt="Tooling"/>
 </div>
-
----
