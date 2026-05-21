@@ -85,9 +85,3 @@ I am a founder and software engineer focused on high-performance infrastructure,
 </div>
 
 ---
-
-<img src="https://img.shields.io/badge/GITHUB%20STATS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="GitHub Stats"/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominionism&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&area_color=161B22&days=31&custom_title=%20" alt="Activity Graph" width="100%"/>
-</p>
