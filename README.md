@@ -70,14 +70,6 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Implemented weighted multi-factor ranking with real-time preference adjustments and cost/quality outlier detection
 > - Designed a multi-stage pipeline handling reasoning, real-time agent negotiation, and transaction fulfillment
 
-> **[SkillRank](https://github.com/dominionism/SkillRank)**
->
-> *AI Skill Discovery & Reranking Agent*
->
-> - Implemented semantic tool discovery using dense embeddings and **Pinecone**
-> - Optimized search diversity by 25% using Maximal Marginal Relevance (MMR) reranking
-> - Built LLM-powered agent generating human-readable justifications for multi-prompt high-K recommendations
-
 ---
 
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
