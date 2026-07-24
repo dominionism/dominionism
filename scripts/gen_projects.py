@@ -7,10 +7,10 @@ icons = json.load(open(f"{HERE}/icons.json"))
 
 # Per-project stacks (pulled from each repo's languages / dependencies)
 projects = {
-    "koda":      ["typescript", "python", "flutter", "docker"],
+    "koda":      ["typescript", "python", "flutter", "docker", "livekit"],
     "grove":     ["typescript", "bun", "huggingface", "zod"],
     "noesis":    ["typescript", "nodejs", "sqlite", "onnx"],
-    "openville": ["typescript", "nextjs", "react", "tailwind"],
+    "openville": ["typescript", "nextjs", "react", "tailwind", "shadcn"],
 }
 
 LIGHT = "#E6EDF3"
@@ -19,12 +19,14 @@ colors = {
     "bun": "#FBF0DF", "huggingface": "#FFD21E", "zod": "#3E67B1",
     "nodejs": "#5FA04E", "sqlite": LIGHT, "onnx": "#005CED",
     "nextjs": LIGHT, "react": "#61DAFB", "tailwind": "#06B6D4",
+    "livekit": LIGHT, "shadcn": LIGHT,
 }
 labels = {
     "typescript": "TypeScript", "python": "Python", "flutter": "Flutter", "docker": "Docker",
     "bun": "Bun", "huggingface": "Hugging Face", "zod": "Zod",
     "nodejs": "Node", "sqlite": "SQLite", "onnx": "ONNX",
     "nextjs": "Next.js", "react": "React", "tailwind": "Tailwind",
+    "livekit": "LiveKit", "shadcn": "shadcn",
 }
 
 ICON = 26
@@ -64,7 +66,7 @@ def build(name, stack):
         f'{body}\n'
         f'</svg>\n'
     )
-    out = f"assets/proj-{name}.svg"
+    out = f"assets/{name}-stack.svg"
     open(out, "w").write(svg)
     print(f"wrote {out}  ({W}x{H})  [{label_list}]")
 

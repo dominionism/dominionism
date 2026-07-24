@@ -56,7 +56,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Autonomously navigates codebases, manages version control, and delegates to coding tools, reporting back in plain speech
 > - Steerable by design: high-autonomy execution that stays conversational and under the user's direction
 >
-> <img src="./assets/proj-koda.svg" alt="Koda stack: TypeScript · Python · Flutter · Docker" height="66"/>
+> <img src="./assets/koda-stack.svg" alt="Koda stack: TypeScript · Python · Flutter · Docker · LiveKit" height="66"/>
 
 > **Grove**
 >
@@ -66,7 +66,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Built an engine that locates the right tree on return and reads it in full, resuming a session as if the abandoned one never ended
 > - Inverts mainstream agentic memory: the machine never quietly remembers or forgets anything
 >
-> <img src="./assets/proj-grove.svg" alt="Grove stack: TypeScript · Bun · Hugging Face · Zod" height="66"/>
+> <img src="./assets/grove-stack.svg" alt="Grove stack: TypeScript · Bun · Hugging Face · Zod" height="66"/>
 
 > **Noesis**
 >
@@ -76,7 +76,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Engineered SQLite-backed memory with hybrid retrieval, a knowledge graph, and HMAC integrity
 > - Shipped distribution adapters for Claude Code, Cursor, Copilot, Aider, Codex CLI, and more
 >
-> <img src="./assets/proj-noesis.svg" alt="Noesis stack: TypeScript · Node · SQLite · ONNX" height="66"/>
+> <img src="./assets/noesis-stack.svg" alt="Noesis stack: TypeScript · Node · SQLite · ONNX" height="66"/>
 
 > **[OpenVille](https://github.com/jeremykamber/openville)**
 >
@@ -86,7 +86,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Implemented weighted multi-factor ranking with real-time preference adjustments and cost/quality outlier detection
 > - Designed a multi-stage pipeline handling reasoning, real-time agent negotiation, and transaction fulfillment
 >
-> <img src="./assets/proj-openville.svg" alt="OpenVille stack: TypeScript · Next.js · React · Tailwind" height="66"/>
+> <img src="./assets/openville-stack.svg" alt="OpenVille stack: TypeScript · Next.js · React · Tailwind · shadcn" height="66"/>
 
 ---
 
