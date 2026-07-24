@@ -85,11 +85,24 @@ I am a founder and software engineer focused on high-performance infrastructure,
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?s=72&i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?s=72&i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?s=72&i=postgres,mongodb,redis,firebase&theme=dark&perline=6" alt="Data Systems"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?s=72&i=docker,github,git,bash,vscode&theme=dark&perline=6" alt="Tooling"/>
+
+<table>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&theme=dark&perline=4" alt="Data"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,github,git,bash,vscode&theme=dark&perline=5" alt="DevOps"/></td>
+  </tr>
+</table>
+
 </div>
