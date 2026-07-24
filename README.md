@@ -85,19 +85,5 @@ I am a founder and software engineer focused on high-performance infrastructure,
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Backend"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,java,kotlin&theme=dark&perline=6" alt="Backend"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Frontend-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Frontend"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css&theme=dark&perline=6" alt="Frontend"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Data-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Data"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase&theme=dark&perline=4" alt="Data"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/DevOps-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="DevOps"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,github,git,bash,vscode&theme=dark&perline=5" alt="DevOps"/>
+  <img src="./assets/stack.svg" alt="Tech stack" width="100%"/>
 </div>
