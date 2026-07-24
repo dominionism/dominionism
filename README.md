@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Building+Koda;Full+Stack+Engineer;Machine+Learning;Artificial+Intelligence;Cybersecurity;Automation;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" width="100%" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=24&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=550&height=55&letterSpacing=2px&lines=Building+Koda;Full+Stack+Engineer;Machine+Learning;Artificial+Intelligence;Cybersecurity;Automation;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -44,23 +44,33 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Built production ETL pipelines in Python (Scrapy) with schema versioning and incremental validation
 > - Optimized query latency by **80%** (5s → 1s) via MongoDB aggregation and multi-tier Redis caching
 
-> **ThinkCyber UW** · Founding Technical Officer &nbsp; <img src="https://img.shields.io/badge/April%202025%20–%20Present-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
->
-> *Infrastructure development and technical curriculum for cybersecurity outreach.*
->
-> - Engineered dual-layer caching (Redis/Local), achieving **23x faster API response times** (12ms average)
-> - Built Node.js Discord CI/CD integration for real-time regional cybersecurity job tracking
-
-> **UW College of Built Environments** &nbsp; <img src="https://img.shields.io/badge/Jan%202025%20–%20May%202025-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
->
-> *Full-stack modernization to replace an obsolete legacy faculty system.*
->
-> - Designed multi-model MongoDB schema with transaction-safe cascading deletes
-> - Engineered 21 REST endpoints with JWT-based RBAC and Bcrypt to secure sensitive data
-
 ---
 
 <img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Projects"/>
+
+> **Koda**
+>
+> *A voice-first AI pair programmer — talk to it; it does the engineering.*
+>
+> - Built a two-tier voice agent behind a LiveKit audio room, running 24/7 on a VPS with the phone as just a microphone and speaker
+> - Autonomously navigates codebases, manages version control, and delegates to coding tools, reporting back in plain speech
+> - Steerable by design: high-autonomy execution that stays conversational and under the user's direction
+
+> **Grove**
+>
+> *Human-curated agentic memory — a locator, not an injector.*
+>
+> - Designed a memory model of plain-folder "context trees" curated entirely by the user, with nothing auto-remembered or injected behind their back
+> - Built an engine that locates the right tree on return and reads it in full, resuming a session as if the abandoned one never ended
+> - Inverts mainstream agentic memory: the machine never quietly remembers or forgets anything
+
+> **Noesis**
+>
+> *Persistent intelligence layer for AI coding agents.*
+>
+> - Fused memory, workflow, and auto-integration into a single layer spanning 9 CLI coding tools
+> - Engineered SQLite-backed memory with hybrid retrieval, a knowledge graph, and HMAC integrity
+> - Shipped distribution adapters for Claude Code, Cursor, Copilot, Aider, Codex CLI, and more
 
 > **[OpenVille](https://github.com/jeremykamber/openville)**
 >
