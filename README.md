@@ -85,5 +85,5 @@ I am a founder and software engineer focused on high-performance infrastructure,
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
 <div align="center">
-  <img src="./assets/stack.svg" alt="Tech stack" width="100%"/>
+  <img src="./assets/tech-stack.svg" alt="Tech stack" width="100%"/>
 </div>

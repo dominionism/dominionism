@@ -97,5 +97,5 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" fill="no
 </svg>
 '''
 
-open("assets/stack.svg", "w").write(svg)
-print(f"wrote assets/stack.svg  ({len(row1)}+{len(row2)} logos + labels, {W}x{H})")
+open("assets/tech-stack.svg", "w").write(svg)
+print(f"wrote assets/tech-stack.svg  ({len(row1)}+{len(row2)} logos + labels, {W}x{H})")
