@@ -1,15 +1,19 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Building+Koda;Full+Stack+Engineer;Machine+Learning;Artificial+Intelligence;Cybersecurity;Automation;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" width="100%" /></a>
+  <img src="./assets/header.svg" alt="Koda — Speak it into existence" width="100%"/>
 </div>
 
 <br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=40&lines=Founder+%2B+Full+Stack+Engineer;Machine+Learning+%2F+Artificial+Intelligence;Defensive+Security;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" /></a>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/luisgabrielcainglet"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=dominionism&style=for-the-badge&color=161B22&label=VIEWS&labelColor=161B22" alt="Profile Views"/>
 </p>
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <img src="https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="About Me"/>
 
@@ -24,7 +28,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 
 **B.S. Informatics** @ **University of Washington**
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <img src="https://img.shields.io/badge/EXPERIENCE-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Experience"/>
 
@@ -35,6 +39,10 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Built a macOS menu bar utility using on-device STT for real-time shell, git, and app management
 > - Implemented hybrid AI orchestration using local pattern-matching for zero-latency and cloud-based LLM function calling for complex intent
 > - Integrated pre-execution command guards and macOS Keychain for encrypted credential storage
+
+<div align="center">
+  <img src="./assets/terminal.svg" alt="Koda translating natural language into shell commands" width="85%"/>
+</div>
 
 > **Standard** · Lead Software Engineer &nbsp; <img src="https://img.shields.io/badge/June%202025%20–%20Dec%202025-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
 >
@@ -58,7 +66,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Designed multi-model MongoDB schema with transaction-safe cascading deletes
 > - Engineered 21 REST endpoints with JWT-based RBAC and Bcrypt to secure sensitive data
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Projects"/>
 
@@ -70,7 +78,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Implemented weighted multi-factor ranking with real-time preference adjustments and cost/quality outlier detection
 > - Designed a multi-stage pipeline handling reasoning, real-time agent negotiation, and transaction fulfillment
 
----
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 <img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
 
@@ -82,4 +90,10 @@ I am a founder and software engineer focused on high-performance infrastructure,
   <img src="https://skillicons.dev/icons?s=72&i=postgres,mongodb,redis,firebase&theme=dark&perline=6" alt="Data Systems"/>
   <br><br>
   <img src="https://skillicons.dev/icons?s=72&i=docker,github,git,bash,vscode&theme=dark&perline=6" alt="Tooling"/>
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dominionism/dominionism/output/github-snake-mono.svg" alt="Contribution graph snake" width="100%"/>
 </div>
