@@ -58,7 +58,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 >
 > <img src="./assets/koda-stack.svg" alt="Koda stack: TypeScript · Python · Flutter · Docker · LiveKit" height="66"/>
 
-> **Grove**
+> **[Grove](https://github.com/dominionism/Grove)**
 >
 > *Human-curated agentic memory — a locator, not an injector.*
 >
@@ -68,7 +68,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 >
 > <img src="./assets/grove-stack.svg" alt="Grove stack: TypeScript · Bun · Hugging Face · Zod" height="66"/>
 
-> **Noesis**
+> **[Noesis](https://github.com/dominionism/Noesis)**
 >
 > *Persistent intelligence layer for AI coding agents.*
 >
