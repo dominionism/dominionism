@@ -28,7 +28,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 
 <img src="https://img.shields.io/badge/EXPERIENCE-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Experience"/>
 
-> **Koda** · Co-Founder &nbsp; <img src="https://img.shields.io/badge/Dec%202025%20–%20Present-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
+> **Koda** · Co-Founder &nbsp; <img src="https://img.shields.io/badge/Feb%202026%20–%20Sep%202026-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
 >
 > *Building an intelligent macOS personal agent translating natural language to system-level execution tailored for developer workflows.*
 >
