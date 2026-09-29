@@ -1,34 +1,21 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=24&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&random=false&width=550&height=55&letterSpacing=2px&lines=Full+Stack+Engineer;Machine+Learning;Artificial+Intelligence;Cybersecurity;Automation;Building+Intelligent+Systems;Security+First.+Always." alt="Typing SVG" /></a>
-</div>
 
-<br>
+<img src="https://raw.githubusercontent.com/dominionism/dominionism/profile-art/assets/contrib-heatmap.svg" width="100%" alt="dominionism's GitHub contributions over the last year, drawn as a heatmap in a terminal window"/>
+
+<img src="./assets/whoami.svg" width="100%" alt="A terminal running neofetch: an ASCII portrait beside a card. Founder and software engineer focused on agentic systems and high-performance infrastructure; B.S. Informatics, University of Washington"/>
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/luisgabrielcainglet"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=dominionism&style=for-the-badge&color=161B22&label=VIEWS&labelColor=161B22" alt="Profile Views"/>
 </p>
 
----
+<br>
 
-<img src="https://img.shields.io/badge/ABOUT%20ME-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="About Me"/>
+### `dominionism@github ~ $ cat experience.log`
 
-I am a founder and software engineer focused on high-performance infrastructure, and agentic systems.
-
-<p>
-  <img src="https://img.shields.io/badge/Full%20Stack-161B22?style=flat-square&logo=stackblitz&logoColor=C9D1D9" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=flat-square&logo=pytorch&logoColor=C9D1D9" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-161B22?style=flat-square&logo=hackthebox&logoColor=C9D1D9" alt="Security"/>
-  <img src="https://img.shields.io/badge/Automation-161B22?style=flat-square&logo=githubactions&logoColor=C9D1D9" alt="Automation"/>
-</p>
-
-**B.S. Informatics** @ **University of Washington**
-
----
-
-<img src="https://img.shields.io/badge/EXPERIENCE-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Experience"/>
-
-> **Koda** · Co-Founder &nbsp; <img src="https://img.shields.io/badge/Feb%202026%20–%20Sep%202026-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
+> **Koda** · Co-Founder &nbsp; `Feb 2026 – Sep 2026`
 >
 > *Building an intelligent macOS personal agent translating natural language to system-level execution tailored for developer workflows.*
 >
@@ -36,7 +23,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Implemented hybrid AI orchestration using local pattern-matching for zero-latency and cloud-based LLM function calling for complex intent
 > - Integrated pre-execution command guards and macOS Keychain for encrypted credential storage
 
-> **Standard** · Lead Software Engineer &nbsp; <img src="https://img.shields.io/badge/June%202025%20–%20Dec%202025-C9D1D9?style=flat-square&labelColor=161B22&color=161B22" alt="Date"/>
+> **Standard** · Lead Software Engineer &nbsp; `June 2025 – Dec 2025`
 >
 > *Prototyping and scaling a real-time real estate data intelligence platform.*
 >
@@ -44,9 +31,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 > - Built production ETL pipelines in Python (Scrapy) with schema versioning and incremental validation
 > - Optimized query latency by **80%** (5s → 1s) via MongoDB aggregation and multi-tier Redis caching
 
----
-
-<img src="https://img.shields.io/badge/PROJECTS-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Projects"/>
+### `dominionism@github ~ $ ls projects/`
 
 > **Koda**
 >
@@ -88,9 +73,7 @@ I am a founder and software engineer focused on high-performance infrastructure,
 >
 > <img src="./assets/openville-stack.svg" alt="OpenVille stack: TypeScript · Next.js · React · Tailwind · shadcn" height="66"/>
 
----
-
-<img src="https://img.shields.io/badge/TECH%20STACK-FFFFFF?style=for-the-badge&labelColor=161B22&color=161B22" alt="Tech Stack"/>
+### `dominionism@github ~ $ ./stack.sh --all`
 
 <div align="center">
   <img src="./assets/tech-stack.svg" alt="Tech stack" width="100%"/>
