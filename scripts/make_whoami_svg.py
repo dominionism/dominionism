@@ -34,7 +34,7 @@ PALETTE = [
     ["#6E7681", "#FFA198", "#56D364", "#E3B341", "#79C0FF", "#D2A8FF", "#56D4DD", "#FFFFFF"],
 ]
 
-START = 1.9              # start typing once contrib-heatmap.svg, above, has begun drawing
+START = 0.4              # a beat of idle prompt before the command types
 PY = 72                  # top of the output area
 # Portrait: 0.6em glyph advance, 1.2em line (the 2:1 cell make_ascii.py samples for)
 PCW = 3.6

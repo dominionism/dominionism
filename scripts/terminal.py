@@ -1,4 +1,4 @@
-"""Shared terminal-window chrome for the animated profile SVGs (whoami.svg, contrib-heatmap.svg).
+"""Terminal-window chrome for the animated profile SVG (whoami.svg).
 
 Every animation is plain CSS with `both` fill, and each element's resting style is its final
 frame. So anything that ignores animation (reduced-motion users, static renderers) shows the
