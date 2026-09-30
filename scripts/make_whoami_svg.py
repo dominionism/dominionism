@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build assets/whoami.svg: `neofetch` in a terminal window, the ASCII portrait printing
-row by row beside a card of who I am.
+row by row on a loop beside a card of who I am.
 
     python3 scripts/make_whoami_svg.py
 
@@ -28,7 +28,8 @@ PY = 72                  # top of the output area
 PCW = 3.6
 PFS = PCW / 0.6
 PLH = PFS * 1.2
-SCAN, STAGGER = 0.3, 0.04
+SCAN, STAGGER = 0.3, 0.04   # seconds for one row to print; between row starts
+HOLD, BLANK = 3.0, 0.5      # seconds the finished portrait stays up; then cleared before reprinting
 # Card
 CX, CFS, CLH = 440, 12.5, 21
 CCW = CFS * 0.6
@@ -61,21 +62,38 @@ def glyphs(row):
 cmd_svg, cmd_css, t_out = prompt(56, "neofetch", START, "cmd")
 
 # Portrait: every row prints behind a scan (a background-coloured cover with a block cursor on
-# its leading edge) that slides off to the right, one row after another.
-portrait = [f'  <g font-size="{PFS:.2f}" fill="{FG}">\n']
+# its leading edge) that slides off to the right, one row after another. The print loops: the
+# finished portrait holds, clears all at once, then prints again from the top. All rows share
+# one cycle, each with its own keyframes, so they clear together yet still print in turn.
+DRAW = (len(rows) - 1) * STAGGER + SCAN
+CYCLE = DRAW + HOLD + BLANK
+
+
+def pct(t):
+    return f"{100 * t / CYCLE:.2f}%"
+
+
+portrait, frames = [f'  <g font-size="{PFS:.2f}" fill="{FG}">\n'], []
 for i, row in enumerate(rows):
     if row.strip():
         portrait.append(f'    <text y="{PY + i * PLH + PLH * 0.8:.2f}">{glyphs(row)}</text>\n')
 portrait.append(f'  </g>\n  <clipPath id="portrait"><rect x="{PAD}" y="{PY}" width="{pw:.1f}" height="{ph:.1f}"/></clipPath>\n')
 portrait.append('  <g clip-path="url(#portrait)">\n')
 for i in range(len(rows)):
-    y, d = PY + i * PLH, delay(t_out + i * STAGGER)
+    y, start, end = PY + i * PLH, i * STAGGER, i * STAGGER + SCAN
     portrait.append(
-        f'    <g class="scan" {d}><rect x="{PAD}" y="{y:.2f}" width="{pw:.1f}" height="{PLH + 0.4:.2f}" fill="{BG}"/>'
-        f'<rect class="cur" {d} x="{PAD}" y="{y:.2f}" width="{PCW}" height="{PLH:.2f}" fill="{FG}"/></g>\n'
+        f'    <g class="scan" style="animation-name:s{i}"><rect x="{PAD}" y="{y:.2f}" width="{pw:.1f}" height="{PLH + 0.4:.2f}" fill="{BG}"/>'
+        f'<rect class="cur" style="animation-name:c{i}" x="{PAD}" y="{y:.2f}" width="{PCW}" height="{PLH:.2f}" fill="{FG}"/></g>\n'
+    )
+    frames.append(
+        f"\n    @keyframes s{i} {{ 0%, {pct(start)} {{ transform: translateX(0); }} "
+        f"{pct(end)}, {pct(DRAW + HOLD)} {{ transform: translateX({pw:.1f}px); }} "
+        f"{pct(DRAW + HOLD + 0.01)}, 100% {{ transform: translateX(0); }} }}"
+        f"\n    @keyframes c{i} {{ 0%, {pct(start)}, {pct(end)}, 100% {{ opacity: 0; }} "
+        f"{pct(start + 0.01)}, {pct(end - 0.01)} {{ opacity: 1; }} }}"
     )
 portrait.append("  </g>\n")
-t_done = t_out + len(rows) * STAGGER + SCAN
+t_done = t_out + DRAW
 
 
 # Card: the classic `user@host`, a rule, then key/value lines rising in one by one, centred
@@ -108,10 +126,9 @@ body = (
 )
 css = (
     cmd_css
-    + f"\n    .scan {{ transform: translateX({pw:.1f}px); animation: scan {SCAN}s linear both; }}"
-    + "\n    @keyframes scan { from { transform: translateX(0); } }"
-    + f"\n    .cur {{ opacity: 0; animation: cur {SCAN}s linear both; }}"
-    + "\n    @keyframes cur { 0%, 100% { opacity: 0; } 0.1%, 99.9% { opacity: 1; } }"
+    + f"\n    .scan {{ transform: translateX({pw:.1f}px); animation: {CYCLE:.2f}s linear {t_out:.3f}s infinite both; }}"
+    + f"\n    .cur {{ opacity: 0; animation: {CYCLE:.2f}s linear {t_out:.3f}s infinite both; }}"
+    + "".join(frames)
     + "".join(f"\n    .g{lvl} {{ fill-opacity: {0.28 + 0.72 * (lvl - 1) / (len(RAMP) - 2):.2f}; }}" for lvl in range(1, len(RAMP)))
 )
 label = f"{USER} running neofetch: an ASCII portrait beside a card. " + "; ".join(
