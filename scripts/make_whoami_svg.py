@@ -18,14 +18,7 @@ CARD = [
     ("Role",      "Founder · Software Engineer"),
     ("Focus",     "Agentic systems · high-perf infra"),
     ("Areas",     "Full stack · ML · Security · Automation"),
-    ("Koda",      "Co-Founder · Feb – Sep 2026"),
-    ("Standard",  "Lead Software Engineer · Jun – Dec 2025"),
     ("Education", "B.S. Informatics · Univ. of Washington"),
-    ("Projects",  "Koda · Grove · Noesis · OpenVille"),
-    ("Stack",     "TypeScript · Python · React · Next.js"),
-    ("",          "Node · FastAPI · Postgres · Redis"),
-    ("Shipped",   "40k+ spatial records · NAR NXT 2025"),
-    ("",          "query latency 5s → 1s (−80%)"),
     ("Motto",     "Security first. Always."),
 ]
 # neofetch's colour strip: normal row, then bright row (GitHub dark ANSI palette)
@@ -90,21 +83,25 @@ portrait.append("  </g>\n")
 t_done = t_out + len(rows) * STAGGER + SCAN
 
 
-# Card: the classic `user@host`, a rule, then key/value lines rising in one by one
+# Card: the classic `user@host`, a rule, then key/value lines rising in one by one, centred
+# beside the portrait
+sw, sh = CCW * 3, 13
+CY = PY + (ph - (12 + (len(CARD) + 2) * CLH + sh)) / 2
+
+
 def at(n):
-    return PY + 12 + n * CLH
+    return CY + 12 + n * CLH
 
 
 title = f"{USER}@github"
 lines = [
-    f'<text x="{CX}" y="{at(0)}" font-size="{CFS + 1}" font-weight="700"><tspan fill="{GREEN}">{USER}</tspan>'
+    f'<text x="{CX}" y="{at(0):.1f}" font-size="{CFS + 1}" font-weight="700"><tspan fill="{GREEN}">{USER}</tspan>'
     f'<tspan fill="{FG}">@</tspan><tspan fill="{GREEN}">github</tspan></text>',
-    f'<text x="{CX}" y="{at(1)}" font-size="{CFS}" fill="{MUTED}">{"-" * len(title)}</text>',
+    f'<text x="{CX}" y="{at(1):.1f}" font-size="{CFS}" fill="{MUTED}">{"-" * len(title)}</text>',
 ]
 for n, (key, value) in enumerate(CARD, start=2):
-    k = f'<text x="{CX}" y="{at(n)}" font-size="{CFS}" font-weight="700" fill="{GREEN}">{escape(key)}:</text>' if key else ""
-    lines.append(f'{k}<text x="{CX + KEY_COLS * CCW:.1f}" y="{at(n)}" font-size="{CFS}" fill="{TEXT}">{escape(value)}</text>')
-sw, sh = CCW * 3, 13
+    k = f'<text x="{CX}" y="{at(n):.1f}" font-size="{CFS}" font-weight="700" fill="{GREEN}">{escape(key)}:</text>' if key else ""
+    lines.append(f'{k}<text x="{CX + KEY_COLS * CCW:.1f}" y="{at(n):.1f}" font-size="{CFS}" fill="{TEXT}">{escape(value)}</text>')
 top = at(len(CARD) + 2) - sh
 lines.append("".join(
     f'<rect x="{CX + c * sw:.1f}" y="{top + r * sh:.1f}" width="{sw + 0.2:.1f}" height="{sh}" fill="{color}"/>'
