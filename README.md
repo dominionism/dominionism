@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dominionism/dominionism/profile-art/assets/contrib-heatmap.svg" width="100%" alt="dominionism's GitHub contributions over the last year, drawn as a heatmap in a terminal window"/>
-
 <img src="./assets/whoami.svg" width="100%" alt="A terminal running neofetch: an ASCII portrait beside a card. Founder and software engineer focused on agentic systems and high-performance infrastructure; B.S. Informatics, University of Washington"/>
 
 </div>
