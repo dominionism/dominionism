@@ -16,8 +16,8 @@ RAMP = " .`:-=+*cs#%@"   # must match make_ascii.py
 
 CARD = [
     ("Role",      "Founder · Software Engineer"),
-    ("Focus",     "Agentic systems · high-perf infra"),
-    ("Areas",     "Full stack · ML · Security · Automation"),
+    ("Focus",     "Full Stack · Backend"),
+    ("",          "Frontend · Agentic Systems"),
     ("Education", "B.S. Informatics · Univ. of Washington"),
     ("Motto",     "Security first. Always."),
 ]
@@ -131,9 +131,13 @@ css = (
     + "".join(frames)
     + "".join(f"\n    .g{lvl} {{ fill-opacity: {0.28 + 0.72 * (lvl - 1) / (len(RAMP) - 2):.2f}; }}" for lvl in range(1, len(RAMP)))
 )
-label = f"{USER} running neofetch: an ASCII portrait beside a card. " + "; ".join(
-    f"{k}: {v}" if k else v for k, v in CARD
-)
+facts = []
+for k, v in CARD:   # a row without a key continues the one above it
+    if k:
+        facts.append(f"{k}: {v}")
+    else:
+        facts[-1] += f" · {v}"
+label = f"{USER} running neofetch: an ASCII portrait beside a card. " + "; ".join(facts)
 
 svg = window(H, f"{USER}@github: ~", body, css, label)
 open(f"{ROOT}/assets/whoami.svg", "w").write(svg)
