@@ -1,4 +1,4 @@
-"""Terminal-window chrome for the animated profile SVG (whoami.svg).
+"""Terminal-window chrome shared by the profile SVGs.
 
 Every animation is plain CSS with `both` fill, and each element's resting style is its final
 frame. So anything that ignores animation (reduced-motion users, static renderers) shows the
@@ -88,8 +88,12 @@ def idle_prompt(y, start, x=PAD):
     )
 
 
-def window(h, title, body, css, label):
-    """Wrap `body` in a dark, rounded terminal window with a title bar."""
+def window(h, title, body, css, label, heading=False):
+    """Wrap `body` in a dark, rounded terminal window with a title bar.
+
+    With heading=True the title is the section's header, so it reads brighter and bolder.
+    """
+    title_style = f'font-size="13" font-weight="600" fill="{FG}"' if heading else f'font-size="12" fill="{MUTED}"'
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {h}" width="{W}" height="{h}" '
         f'fill="none" role="img" aria-label="{escape(label)}">\n'
@@ -103,7 +107,7 @@ def window(h, title, body, css, label):
         f'  <circle cx="20" cy="{BAR / 2}" r="5.5" fill="#FF5F57"/>\n'
         f'  <circle cx="38" cy="{BAR / 2}" r="5.5" fill="#FEBC2E"/>\n'
         f'  <circle cx="56" cy="{BAR / 2}" r="5.5" fill="#28C840"/>\n'
-        f'  <text x="{W / 2}" y="{BAR / 2 + 4}" font-size="12" fill="{MUTED}" text-anchor="middle">{escape(title)}</text>\n'
+        f'  <text x="{W / 2}" y="{BAR / 2 + 4}" {title_style} text-anchor="middle">{escape(title)}</text>\n'
         f'{body}'
         f'  </g>\n'
         f'  <rect x="0.5" y="0.5" width="{W - 1}" height="{h - 1}" rx="12" stroke="{BORDER}"/>\n'

@@ -66,8 +66,8 @@
 
 <img src="./assets/openville-stack.svg" alt="OpenVille stack: TypeScript · Next.js · React · Tailwind · shadcn" height="66"/>
 
-## Tech Stack
-
 <div align="center">
-  <img src="./assets/tech-stack.svg" alt="Tech stack" width="100%"/>
+
+<img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Python, Node, React, Next.js, Docker, Postgres, Redis, Kotlin, Three.js, Git, FastAPI, Express, Tailwind, MongoDB, Firebase, Java, HTML5, CSS3, GitHub, Bash"/>
+
 </div>
