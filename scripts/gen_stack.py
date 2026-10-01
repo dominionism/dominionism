@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
-"""Build a full-color, infinitely-scrolling tech-logo marquee (with labels) as an animated SVG."""
+"""Build a full-color, infinitely-scrolling tech-logo marquee (with labels) as an animated SVG,
+in the same terminal window as the rest of the profile."""
 import json, os
 
+from terminal import BAR, BG, W, window
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SP = os.environ.get("SP", os.path.dirname(os.path.abspath(__file__)))
 icons = json.load(open(f"{SP}/icons.json"))
 
@@ -26,12 +30,11 @@ labels = {
     "html": "HTML5", "css": "CSS3", "github": "GitHub", "bash": "Bash",
 }
 
-W = 860
 ICON = 34
 GAP = 78
-R1_ICON, R1_LABEL = 44, 70   # row 1: icon center y, label baseline y
-R2_ICON, R2_LABEL = 114, 140  # row 2
-H = 166
+R1_ICON, R1_LABEL = 66, 92    # row 1: icon center y, label baseline y (below the title bar)
+R2_ICON, R2_LABEL = 136, 162  # row 2
+H = 188
 DUR = 30                      # seconds per full loop
 
 
@@ -76,26 +79,21 @@ def build_row(names, icon_cy, label_y, direction):
 r1 = build_row(row1, R1_ICON, R1_LABEL, "left")
 r2 = build_row(row2, R2_ICON, R2_LABEL, "right")
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" fill="none" role="img" aria-label="Tech stack">
-  <defs>
+# Fade the rows out at both sides of the window body, below the title bar
+body = f'''  <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0"    stop-color="#0D1117" stop-opacity="1"/>
-      <stop offset="0.09" stop-color="#0D1117" stop-opacity="0"/>
-      <stop offset="0.91" stop-color="#0D1117" stop-opacity="0"/>
-      <stop offset="1"    stop-color="#0D1117" stop-opacity="1"/>
+      <stop offset="0"    stop-color="{BG}" stop-opacity="1"/>
+      <stop offset="0.09" stop-color="{BG}" stop-opacity="0"/>
+      <stop offset="0.91" stop-color="{BG}" stop-opacity="0"/>
+      <stop offset="1"    stop-color="{BG}" stop-opacity="1"/>
     </linearGradient>
-    <clipPath id="card"><rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18"/></clipPath>
   </defs>
-
-  <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
-
-  <g clip-path="url(#card)">
 {r1}
 {r2}
-    <rect x="0" y="0" width="{W}" height="{H}" fill="url(#edge)"/>
-  </g>
-</svg>
+  <rect x="0" y="{BAR}" width="{W}" height="{H - BAR}" fill="url(#edge)"/>
 '''
+label = "Tech stack: " + ", ".join(labels[n] for n in row1 + row2)
+svg = window(H, "Tech Stack", body, "", label, heading=True)
 
-open("assets/tech-stack.svg", "w").write(svg)
+open(f"{ROOT}/assets/tech-stack.svg", "w").write(svg)
 print(f"wrote assets/tech-stack.svg  ({len(row1)}+{len(row2)} logos + labels, {W}x{H})")
