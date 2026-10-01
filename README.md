@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/whoami.svg" width="100%" alt="A terminal running neofetch: an ASCII portrait beside a card. Founder and software engineer focused on full stack, backend, frontend and agentic systems; B.S. Informatics, University of Washington"/>
+<img src="./assets/whoami.svg" width="100%" alt="A terminal running neofetch: an ASCII portrait beside a card. Founder and software engineer focused on full stack and agentic systems; B.S. Informatics, University of Washington"/>
 
 </div>
 
