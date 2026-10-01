@@ -16,8 +16,7 @@ RAMP = " .`:-=+*cs#%@"   # must match make_ascii.py
 
 CARD = [
     ("Role",      "Founder · Software Engineer"),
-    ("Focus",     "Full Stack · Backend"),
-    ("",          "Frontend · Agentic Systems"),
+    ("Focus",     "Full Stack · Agentic Systems"),
     ("Education", "B.S. Informatics · Univ. of Washington"),
     ("Motto",     "Security first. Always."),
 ]
