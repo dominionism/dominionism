@@ -6,8 +6,6 @@
 
 <img src="./assets/projects.svg" width="100%" alt="Projects: Koda, a voice-first AI pair programmer; Grove, human-curated agentic memory; Noesis, a persistent intelligence layer for AI coding agents; OpenVille, an autonomous multi-agent tradespeople marketplace"/>
 
-[Grove ↗](https://github.com/dominionism/Grove) · [Noesis ↗](https://github.com/dominionism/Noesis) · [OpenVille ↗](https://github.com/jeremykamber/openville)
-
 <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack: Python, Node, React, Next.js, Docker, Postgres, Redis, Kotlin, Three.js, Git, FastAPI, Express, Tailwind, MongoDB, Firebase, Java, HTML5, CSS3, GitHub, Bash"/>
 
 </div>
