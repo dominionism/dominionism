@@ -18,7 +18,6 @@ CARD = [
     ("Role",      "Founder · Software Engineer"),
     ("Focus",     "Full Stack · Agentic Systems"),
     ("Education", "B.S. Informatics · Univ. of Washington"),
-    ("Motto",     "Security first. Always."),
 ]
 
 START = 0.4              # a beat of idle prompt before the command types
