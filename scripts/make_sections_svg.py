@@ -41,18 +41,6 @@ EXPERIENCE = [
 
 PROJECTS = [
     {
-        "name": "Koda",
-        "tagline": "A voice-first AI pair programmer — talk to it; it does the engineering.",
-        "bullets": [
-            "Built a two-tier voice agent behind a LiveKit audio room, running 24/7 on a VPS with the "
-            "phone as just a microphone and speaker",
-            "Autonomously navigates codebases, manages version control, and delegates to coding tools, "
-            "reporting back in plain speech",
-            "Steerable by design: high-autonomy execution that stays conversational and under the user's direction",
-        ],
-        "stack": ["typescript", "python", "flutter", "docker", "livekit"],
-    },
-    {
         "name": "Grove",
         "tagline": "Human-curated agentic memory — a locator, not an injector.",
         "bullets": [
@@ -92,18 +80,18 @@ PROJECTS = [
 # Stack logos: brand colors, with black brands in light neutral so they show on the dark window
 LIGHT = "#E6EDF3"
 COLORS = {
-    "typescript": "#3178C6", "python": "#3776AB", "flutter": "#02569B", "docker": "#2496ED",
+    "typescript": "#3178C6",
     "bun": "#FBF0DF", "huggingface": "#FFD21E", "zod": "#3E67B1",
     "nodejs": "#5FA04E", "sqlite": LIGHT, "onnx": "#005CED",
     "nextjs": LIGHT, "react": "#61DAFB", "tailwind": "#06B6D4",
-    "livekit": LIGHT, "shadcn": LIGHT,
+    "shadcn": LIGHT,
 }
 LABELS = {
-    "typescript": "TypeScript", "python": "Python", "flutter": "Flutter", "docker": "Docker",
+    "typescript": "TypeScript",
     "bun": "Bun", "huggingface": "Hugging Face", "zod": "Zod",
     "nodejs": "Node", "sqlite": "SQLite", "onnx": "ONNX",
     "nextjs": "Next.js", "react": "React", "tailwind": "Tailwind",
-    "livekit": "LiveKit", "shadcn": "shadcn",
+    "shadcn": "shadcn",
 }
 
 FS, HFS, LH = 12.5, 14, 19       # body and heading font sizes, line height
